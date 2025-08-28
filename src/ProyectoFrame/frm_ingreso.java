@@ -51,7 +51,7 @@ public class frm_ingreso extends javax.swing.JFrame {
 
         pnl_login.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
 
-        btn_verificar.setIcon(new javax.swing.ImageIcon("C:\\Users\\lusai\\OneDrive\\Documentos\\ULP\\1º Año - Segundo Semestre\\Laboratorio de Progrmación I\\iconos netbeans\\icons8-cliente-windows-48.png")); // NOI18N
+        btn_verificar.setIcon(new javax.swing.ImageIcon("C:\\Users\\lusai\\OneDrive\\Documentos\\ULP\\1º Año - Segundo Semestre\\Laboratorio de Progrmación I\\Prueba_TP3\\Icons\\icons8-cliente-windows-48.png")); // NOI18N
         btn_verificar.setText("Registrar");
         btn_verificar.setAlignmentX(0.5F);
         btn_verificar.setHorizontalTextPosition(javax.swing.SwingConstants.RIGHT);
@@ -130,7 +130,7 @@ public class frm_ingreso extends javax.swing.JFrame {
 
         jPanel1.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
 
-        btn_ocultar.setIcon(new javax.swing.ImageIcon("C:\\Users\\lusai\\OneDrive\\Documentos\\ULP\\1º Año - Segundo Semestre\\Laboratorio de Progrmación I\\iconos netbeans\\icons7-ocultar-contraseña-50.png")); // NOI18N
+        btn_ocultar.setIcon(new javax.swing.ImageIcon("C:\\Users\\lusai\\OneDrive\\Documentos\\ULP\\1º Año - Segundo Semestre\\Laboratorio de Progrmación I\\Prueba_TP3\\Icons\\icons7-ocultar-contraseña-50.png")); // NOI18N
         btn_ocultar.setText("Ocultar");
         btn_ocultar.setHorizontalTextPosition(javax.swing.SwingConstants.RIGHT);
         btn_ocultar.addActionListener(new java.awt.event.ActionListener() {
@@ -139,7 +139,7 @@ public class frm_ingreso extends javax.swing.JFrame {
             }
         });
 
-        btn_ver.setIcon(new javax.swing.ImageIcon("C:\\Users\\lusai\\OneDrive\\Documentos\\ULP\\1º Año - Segundo Semestre\\Laboratorio de Progrmación I\\iconos netbeans\\icons7-mostrar-contraseña-50.png")); // NOI18N
+        btn_ver.setIcon(new javax.swing.ImageIcon("C:\\Users\\lusai\\OneDrive\\Documentos\\ULP\\1º Año - Segundo Semestre\\Laboratorio de Progrmación I\\Prueba_TP3\\Icons\\icons7-mostrar-contraseña-50.png")); // NOI18N
         btn_ver.setText("Ver");
         btn_ver.setMaximumSize(new java.awt.Dimension(123, 57));
         btn_ver.setMinimumSize(new java.awt.Dimension(123, 57));
